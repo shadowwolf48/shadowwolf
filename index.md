@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/shadowwolf48/shadowwolf/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/shadowwolf48/shadowwolf/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+# CS:GO Events
+Game events will include Deathrun & Hide and Seek hosted by Glass Shardzz.
+Glass will Host and Watch the games when we do such events, and will join if he wishes to. 
+Play nice, don't cheat. Message Glass Shardzz to start up a Hide and Seek lobby with Multiple people. (At Least 10)
+## Rules?
+The only Rules are stay friendly, don't cheat/hack,
+And don't fucking talk trash behind anyone's back. I don't care if they fucked your god damn mom.
+It won't be tolerated, and there is good reason for it.
+### Bot Commands? I'll make a seperate Site [Here](): **_Coming Soon_**
+-------------------------------------------------------------------------------------------------------------------------------------
+#### Want To Learn How To Use GitHub? Learn and become an administrator [Here](https://guides.github.com/features/mastering-markdown/)
+-------------------------------------------------------------------------------------------------------------------------------------
+**Owner: DanDoG**
+**Co-Owner: Glass Shardzz (Me)**
+**Admins: _Canadian Kitty_ & _Innetric_
+Message ANY of us for any sort of issue or help needed with the server in any sort. If it's a discord Issue. Preferablly Message Glass Shardzz (I Will Be On Most Of The Time)**
+_If you **DO NOT** Have a discord rank and need one, Message **DanDoG or Glass Shardzz** as noone else can give you one. We have every rank in CS as shows in the image_ **_BELOW_**
+![image Of Roles](http://gaming-tools.com/wp-content/uploads/2015/08/cs-go-ranks.jpg)
